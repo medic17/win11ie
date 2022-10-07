@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "win11ie": {
+      "commandName": "Project"
+    }
+  }
+}
