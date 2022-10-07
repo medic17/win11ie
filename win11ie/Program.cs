@@ -15,11 +15,9 @@ namespace Main
             if (args.Length >= 1)
             {
                 URL = args[0];
-                Console.WriteLine($"{args[0]}");
             }
             else
             {
-                Console.WriteLine("launch default web page");
                 URL = "http://www.google.com"; // home page
             }
 
